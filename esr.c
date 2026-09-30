@@ -80,3 +80,4 @@ int main(void)
     printf("\nroot x=%10.8f\n",ans);
   return 0;
 }
+
